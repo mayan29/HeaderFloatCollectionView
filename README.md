@@ -1,6 +1,6 @@
 # HeaderFloatCollectionView
 
-UICollectionView 实现 HeaderView 悬停效果，代码耦合性低，直接设置 UICollectionView 的 layout 为 MYHeaderFloatFlowLayout 即可实现。实现代码基本都是参考别人的，只是在最后设置 header 结构信息做了优化，提高可用性。
+UICollectionView 实现 HeaderView 悬停效果，代码耦合性低。实现代码基本都是参考别人的，只是在最后设置 header 结构信息做了优化，提高可用性。
 
 
 
